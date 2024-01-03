@@ -1,0 +1,1 @@
+let fiatUno= {ano: 1994, modelo: "slim", foraLinha: true, cor: ["branco", "preto", "vermelho"]};
